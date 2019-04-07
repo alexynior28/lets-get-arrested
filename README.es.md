@@ -14,6 +14,7 @@ Artículos sobre el incidente:
 
 - (Japonés) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (Inglés) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
+- (Español) [https://blog.alexisllontop.com/alert-infinito-javascript] (https://blog.alexisllontop.com/alert-infinito-javascript)
 
 Así que esto es considerado como un "crimen" en Japón. ¡Así que seamos criminales y nos arresten!
 
